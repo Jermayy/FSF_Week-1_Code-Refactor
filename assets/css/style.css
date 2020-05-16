@@ -63,7 +63,7 @@ p {
 
 
 /* reclassed content html elements as they have common css attributes and 
-rearranged css to match structure of css */
+rearranged CSS to match structure of HTML */
 .content {
     width: 75%;
     display: inline-block;
@@ -107,7 +107,7 @@ rearranged css to match structure of css */
     background-color: #2589bd;
 }
 /* Benefit lead brand and cost all have same attributes for each elements.
-Simplified by placing all attributes under a common*/
+Simplified by placing all attributes under a common class*/
 .benefit-att {
     margin-bottom: 32px;
     color: #ffffff;
